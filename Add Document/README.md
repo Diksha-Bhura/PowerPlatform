@@ -6,7 +6,7 @@ In the background, a flow runs to create a document in SharePoint Document libra
 
 **Scan Invoice**
 
-![Sample app showing how it works](./assets/video.mp4)
+![Sample app showing how it works](./assets/video.gif)
 
 **Document Library**
 ![Sample document library](./assets/Screenshot%202023-08-15%20120437.png)

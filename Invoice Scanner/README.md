@@ -6,7 +6,7 @@ In the background, a flow runs to add data of scanned invoices in an Excel sheet
 
 **Scan Invoice**
 
-![Animated Sample](./assets/InvoiceProcessor.mp4)
+![Animated Sample](./assets/InvoiceProcessor.gif)
 
 ## Contributors 
 
